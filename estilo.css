@@ -18,8 +18,8 @@ h1{
 /*001*/
 h2{
     font-size:2.5em;
-    color:green;
-    background-color: darkgray;
+    color:#213621;
+    background-color: #C0C0C0;
     text-align: center;
 }
 /*001*/
@@ -34,8 +34,8 @@ p{
 /*a=0 b=0 c=2 002*/
 footer h2{
     font-size:2.0em;
-    color:green;
-    background-color: darkgray;
+    color:#213621;
+    background-color: #C0C0C0;
     text-align: center;
 }
 /*a=0 b=0 c=3 003*/
@@ -115,7 +115,5 @@ video {
   width: 70%;
   height: auto;
 }
-
-
 
 
