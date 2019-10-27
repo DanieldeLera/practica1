@@ -113,10 +113,12 @@ video {
   width: 50%;
   height: 50%;
 }
+/*a=0 b=1 c=1 011*/
 img.derecha{
 	float:right;
 	margin:20px;
 }
+/*a=0 b=1 c=1 011*/
 img.izquierda{
 	float:left;
 	margin:20px;
