@@ -52,6 +52,7 @@ section p::first-letter{
 /*a=0 b=0 c=2 002*/
 section{
     background-color: gainsboro;
+    color:black;
     
 }
 
@@ -63,6 +64,7 @@ nav ul {
     overflow: hidden;
     border: 2px solid #e7e7e7;
     background-color: #333;
+    color:white;
 }
 /*a=0 b=0 c=2 002*/
 nav li {
@@ -73,6 +75,7 @@ nav li {
 nav li a {
     font-size: 1.2em;
     display: block;
+    background-color:#333;
     color: white;
     text-align: center;
     padding: 14px 14px;
@@ -86,12 +89,9 @@ nav li a:hover {
 /*a=0 b=1 c=3 013*/
 nav li a:active {
     background-color: #4CAF50;
+    color : white;
 }
-/*a=0 b=0 c=1 001*/
-footer{
-    background-color: darkgrey;
-    
-}
+
 /*a=0 b=0 c=2 002*/
 footer p{
    font-family:Helvetica,Verdana,sans-serif;
@@ -100,11 +100,13 @@ footer p{
 /*a=0 b=1 c=2 012*/
 footer a:link{
     color:dodgerblue;
+    background-color: gainsboro;
     text-decoration: underline;
 }
 /*a=0 b=1 c=2 012*/
 footer a:visited{
     color:darkviolet;
+    background-color: gainsboro;
     text-decoration: underline;
 }
 
